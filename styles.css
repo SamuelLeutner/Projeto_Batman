@@ -20,7 +20,7 @@ nav {
 }
 
 ul {
-display: flex;
+    display: flex;
     width: 100%;
     justify-content: space-around;
 }
@@ -43,7 +43,7 @@ li:hover {
 }
 
 #banner {
-    background-image: url('https://www.batmanfilme.com.br/images/tt.png');
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fdcbrteam%2Fstatus%2F1449046445487804417&psig=AOvVaw3C74GZkTLE1mrFzCV1O0zQ&ust=1675025255220000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDXr7yR6_wCFQAAAAAdAAAAABAE');
     background-position: bottom;
     background-size: cover;
     width: 100%;
