@@ -43,9 +43,9 @@ li:hover {
 }
 
 #banner {
-    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fdcbrteam%2Fstatus%2F1449046445487804417&psig=AOvVaw3C74GZkTLE1mrFzCV1O0zQ&ust=1675025255220000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDXr7yR6_wCFQAAAAAdAAAAABAE');
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cfd178b-66c3-4756-8e9b-63df1ff3e510/df0rl1f-fd8ecf11-3ec5-4345-9f54-d3ae84fe5aca.png/v1/fill/w_1192,h_670,q_70,strp/the_batman_2022___minimalist___wallpaper_engine_by_parzivalv_df0rl1f-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvM2NmZDE3OGItNjZjMy00NzU2LThlOWItNjNkZjFmZjNlNTEwXC9kZjBybDFmLWZkOGVjZjExLTNlYzUtNDM0NS05ZjU0LWQzYWU4NGZlNWFjYS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3olLv3K1QFnkn5ycEsMdJe4PgDJAWnjFJJkxHEi0QgY');
     background-position: bottom;
-    background-size: cover;
+    background-size: cover-top;
     width: 100%;
     height: 600px;
 }
